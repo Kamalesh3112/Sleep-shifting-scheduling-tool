@@ -5,6 +5,9 @@ This is a project solved for challenge : sleep shifting scheduling tool . It is 
  # Tools to manage the sleep shift scheduling : 
  1) https://in.pcmag.com/small-business-from/105155/humanity-review
 
+Special Emphasis from Sleep shifting Scheduling that a person to solve : 
+ Blockchain is here to stay in healthcare and major innovation efforts are taking place to solve the biggest problems we face. Those who tackle these problems and protect their innovation will be well situated to dominate the new technology platforms after the wave of blockchain disrupts current business models in the spread across the industry.
+
 
 # Refrences for this project :
  1)https://www.nasa.gov/mission_pages/station/research/astronauts_improve_sleep
