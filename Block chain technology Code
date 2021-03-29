@@ -33,6 +33,6 @@ print "genesis_block_hash:", genesis_block_hash
 # create another block
 block1 = create_block(" Blockchain helps to improve health related problems especially sleeping problems with inter currlation with IOT.", genesis_block_hash)
 
-# print the hash of block1
+# print the hash of block 1
 block1_hash = get_hash_itself(block1)
 print "block1_hash:", block1_hash
